@@ -10,7 +10,7 @@ I am not responsible for any loss of data or permanent encryption of files in ca
 To run this program in Windows make sure python-3.X is installed.<br />
 Download the repository by the following command:<br />
 git clone https://github.com/silentarnav1290/Ransomware_Concept.git<br />
-Then open the EXE Build folder and just double click on Ransomware_Concept exe file.<br />
+Then open the EXE Build folder, then go to dist folder and just double click on Ransomware_Concept.exe file or you can just double click the lnk file in the main EXE Build folder.<br />
 
 To run the program in Linux based OS make sure python-3.X is installed.(Although python is preinstalled in linux based OS)<br />
 Download the repository by the following command:<br />
